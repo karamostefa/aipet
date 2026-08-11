@@ -1,6 +1,6 @@
 # AIPeT — AI Pedagogical Tutor
 
-Standalone website for **AIPeT**, extracted from the CAIA codebase. AIPeT is
+Standalone website for **AIPeT**. AIPeT is
 an AI-assisted pedagogical tutor for Algerian high-school students: a
 student solves an exercise by hand, photographs it, and AIPeT analyzes the
 *reasoning* — never handing over the final answer — and asks Socratic
